@@ -108,3 +108,4 @@ For 1627 images, **EfficientNetB0** is recommended because:
 - Fast training and inference
 
 Expected Performance: 90-95% accuracy with proper data augmentation
+Actual Performance : 86% accuracy 
